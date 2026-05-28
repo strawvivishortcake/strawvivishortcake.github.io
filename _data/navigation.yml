@@ -10,13 +10,13 @@
 main:
 
   - title: "Projects"
-    url: /portfolio/    
+    url: /projects/    
 
   - title: "Publications"
     url: /publications/    
     
   - title: "Ventures"
-    url: /talks/
+    url: /ventures/
         
     
   # - title: "CV"
