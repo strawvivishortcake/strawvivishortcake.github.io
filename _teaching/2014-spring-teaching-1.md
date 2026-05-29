@@ -1,7 +1,7 @@
 ---
 title: "Geneven"
 collection: ventures
-type: "Undergraduate course"
+type: "Startup"
 permalink: https://geneven.ai/
 ---
 
