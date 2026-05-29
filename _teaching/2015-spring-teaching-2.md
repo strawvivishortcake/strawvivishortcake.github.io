@@ -2,7 +2,7 @@
 title: "Supplai"
 collection: ventures
 type: "Non-Profit"
-permalink: /supplai
+permalink: projects/supplai
 venue: "Harvard Kennedy Human Rights Center"
 date: 2026
 
