@@ -18,4 +18,4 @@ Generative AI-Powered Virtual Patient Simulations for Culturally Responsive Comm
 Tumors and Poor Prognosis (Submitted to Palliative Care & Social Medicine)
 =======
 - We analyzed publicly available insurance coverage criteria for adult neuro-oncological patients with primary brain tumors receiving palliative care across five major health insurers (UnitedHealthcare, Elevance Health, Centene Corporation, Humana, and Kaiser Permanente) to examine how insurance structures facilitate or restrict access to specialty palliative care services for patients with high grade brain tumors
----
+
