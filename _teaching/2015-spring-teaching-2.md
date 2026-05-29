@@ -5,7 +5,7 @@ type: "Non-Profit"
 url: https://supplais.wordpress.com/
 permalink: /supplai
 venue: "Harvard Kennedy Human Rights Center"
-date: 2025
+date: 2026
 
 ---
 
