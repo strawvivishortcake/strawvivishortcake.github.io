@@ -2,7 +2,6 @@
 title: "Supplai"
 collection: ventures
 type: "Non-Profit"
-url: https://supplais.wordpress.com/
 permalink: /supplai
 venue: "Harvard Kennedy Human Rights Center"
 date: 2026
