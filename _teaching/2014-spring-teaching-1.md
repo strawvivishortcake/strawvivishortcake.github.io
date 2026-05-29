@@ -1,14 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Geneven"
 collection: ventures
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://geneven.ai/
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Geneven is designed to address a critical gap in current drug development and safety evaluation. Adverse drug reactions that disproportionately affect specific genetic or ancestry subgroups are often missed due to underpowered or non-representative clinical trials. Existing safety analyses typically average outcomes across populations, limiting the ability to detect subgroup-specific risks early. Geneven is an AI-powered clinical trial auditing platform that analyzes enrollment data alongside pharmacogenomic and population reference data to quantify representation gaps, calculate statistical power for subgroup safety detection, and assign risk ratings to individual trials. The platform generates structured, regulator-oriented audit reports with specific enrollment recommendations for drug safety teams, medical affairs professionals, and regulatory decision-makers to identify and address these gaps before they become post-market crises.
 
 Heading 1
 ======
