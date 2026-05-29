@@ -1,5 +1,5 @@
 ---
-title: "PETAL Consortium"
+title: "PETAL Consortium (05/28/2026-08/06/2026"
 excerpt: "A wekly notebook of my summer project at the PETAL Consortium"
 collection: projects
 ---
