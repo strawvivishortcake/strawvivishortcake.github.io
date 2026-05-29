@@ -4,7 +4,7 @@ collection: ventures
 type: "Non-Profit"
 permalink: /ventures/supplai
 venue: "Harvard Kennedy Human Rights Center"
-date: 2026
+date: 01-01-2026
 
 ---
 
