@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Automated Coronary Artery Disease Detection Using a CNN Model with Temporal Attention"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/cad
+excerpt: 'Coronary Artery Disease (CAD) is a leading cause of cardiovascular-related mortality and affects 20.5 million people in the United States and approximately 315 million people worldwide in 2022. The asymptomatic and progressive nature of CAD presents challenges for early diagnosis and timely intervention. Traditional diagnostic methods such angiography and stress tests are known to be resource-intensive and prone to human error. This calls for a need for automated and time-effective detection methods. In this paper, this paper introduces a novel approach to the diagnosis of CAD based on a Convolutional Neural Network (CNN) with a temporal attention mechanism. The model will be developed on an architecture that will automatically extract and emphasize critical features from sequential medical imaging data from coronary angiograms, allowing subtle signs of CAD to be easily spotted, which could not have been detected by convention. The temporal attention mechanism strengthens the ability of a model to focus on relevant temporal patterns, thus improving sensitivity and robustness in detecting CAD for various stages of the disease. Experimental validation on a large and diverse dataset demonstrates the efficacy of the proposed method, with significant improvements in both detection accuracy and processing time compared to traditional CNN architectures. The results of this study propose a scalable solution system for the diagnosis of CAD. This proposed system can be integrated into clinical workflows to assist healthcare professionals. Ultimately, this research contributes to the field of AI-driven healthcare solutions and has the potential to reduce the global burden of CAD through early automated detection.'
+date: 2026-2-14
+venue: 'Preprint'
+paperurl: 'https://www.medrxiv.org/content/10.64898/2026.02.11.26346085v1'
+citation: 'Keshav Balakrishna, Alessandro Hammond, Saanvi Cheruku et al. Automated Coronary Artery Disease Detection Using a CNN Model with Temporal Attention, 16 February 2026, PREPRINT (Version 1) [Automated Coronary Artery Disease Detection Using a CNN Model with Temporal Attention | medRxiv]'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
