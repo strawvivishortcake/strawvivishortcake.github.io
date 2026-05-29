@@ -2,7 +2,7 @@
 title: "Geneven"
 collection: ventures
 type: "Startup"
-permalink: /geneven
+permalink: projects/geneven
 venue: "MIT Computer Science and Artificial Intelligence Laboratory"
 date: 2025
 ---
