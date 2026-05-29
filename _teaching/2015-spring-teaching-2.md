@@ -2,7 +2,7 @@
 title: "Supplai"
 collection: ventures
 type: "Non-Profit"
-permalink: supplai
+url: https://supplais.wordpress.com/
 
 ---
 
