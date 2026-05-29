@@ -1,6 +1,6 @@
 ---
-title: "Projects item number 1"
-excerpt: "Short description of projects item number 1<br/><img src='/images/500x300.png'>"
+title: "PETAL Consortium"
+excerpt: "A wekly notebook of my summer project at the PETAL Consortium"
 collection: projects
 ---
 
