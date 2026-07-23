@@ -16,4 +16,4 @@ These two weeks, I worked on creating individual heatmaps from monaLisa and HOME
 
 Week 3-6
 =======
-I created combined TF heatmaps from monaLisa and HOMER on RStudio. I noticed there were many similarities between the results from HOMER and monaLisa to chromVAR. Now I plan on further analyzing the results
+I created combined TF heatmaps from monaLisa and HOMER on RStudio. I noticed there were many similarities between the results from HOMER and monaLisa to chromVAR. Now I plan on further analyzing the results in the PTCL cell line collection.
